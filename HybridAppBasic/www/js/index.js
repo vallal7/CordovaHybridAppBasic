@@ -43,7 +43,7 @@ var app = {
 
         listeningElement.setAttribute('style', 'display:none;');
         receivedElement.setAttribute('style', 'display:block;');
-
+        alert("Your Cordova App is ready !!!");
         console.log('Received Event: ' + id);
     }
 };
