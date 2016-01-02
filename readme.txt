@@ -6,7 +6,7 @@ This is an Hybrid app build in cordova (Phonegap). This will support various pla
 4. Navigate into your app and add any platform:
   cd MyApp
   cordova platform add ios
-5. Build youir app and run in simulator or device:
+5. Build your app and run in simulator or device:
   $ cordova build ios
   $ cordova emulate ios
   
